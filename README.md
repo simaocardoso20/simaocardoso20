@@ -1,4 +1,4 @@
-# 👋 Olá, Software Developer em formação!
+# 👋 Olá, eu sou um Software Developer em formação!
 
 🎓 Atualmente a frequentar um curso intensivo de Desenvolvimento de Software  
 📚 A aprender: Java, JavaScript, Kotlin, HTML, CSS, PHP, Laravel, SQL, UML, QA  
