@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Olá, Software Developer em formação!
 
-<!--
-**simaocardoso20/simaocardoso20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente a frequentar um curso intensivo de Desenvolvimento de Software  
+📚 A aprender: Java, JavaScript, Kotlin, HTML, CSS, PHP, Laravel, SQL, UML, QA  
+💡 Interesso-me por: desenvolvimento full-stack, APIs, bases de dados e boas práticas de código  
+📌 Aqui vais encontrar os meus projetos desenvolvidos ao longo do curso
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias que estou a aprender
+
+![Java](https://img.shields.io/badge/Java-blue?logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript)
+![Kotlin](https://img.shields.io/badge/Kotlin-purple?logo=kotlin)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php)
+![Laravel](https://img.shields.io/badge/Laravel-red?logo=laravel)
+![SQL](https://img.shields.io/badge/SQL-lightgrey?logo=mysql)
+![UML](https://img.shields.io/badge/UML-blueviolet)
+![QA](https://img.shields.io/badge/QA-green)
+
+---
+
+## 🚀 Projetos em destaque
+
+
+
+⭐️ Obrigado por visitares o meu perfil!
